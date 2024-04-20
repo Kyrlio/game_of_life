@@ -1,5 +1,7 @@
-# game_of_life
+# Game Of Life
  Little project of the Game of Life in C with SDL
+ 
+
  
 ESCAPE - Quit application
 
